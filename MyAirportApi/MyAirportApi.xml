@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyAirportApi</name>
+    </assembly>
+    <members>
+        <member name="M:MyAirportApi.Controllers.BagagesController.GetBagages">
+            <summary>
+            Get all bagages
+            </summary>
+            <returns>Un obj task avec un actionResult avec une liste de bagages</returns>
+        </member>
+    </members>
+</doc>
